@@ -1,0 +1,136 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* IGPrettyButton */ = {
+		activeExec = 0;
+		executables = (
+			4C9113531163C47600B7641A /* IGPrettyButton */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C9113531163C47600B7641A /* IGPrettyButton */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IGPrettyButton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* IGPrettyButton */,
+		);
+		codeSenseManager = 4C91135E1163C49500B7641A /* Code sense */;
+		executables = (
+			4C9113531163C47600B7641A /* IGPrettyButton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291998397;
+			PBXWorkspaceStateSaveDate = 291998397;
+		};
+		perUserProjectItems = {
+			4C833F0911678AC20075B90A /* PlistBookmark */ = 4C833F0911678AC20075B90A /* PlistBookmark */;
+			4CD24BB01163FDE3005CDAC4 /* PlistBookmark */ = 4CD24BB01163FDE3005CDAC4 /* PlistBookmark */;
+		};
+		sourceControlManager = 4C91135D1163C49500B7641A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4C833F0911678AC20075B90A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* IGPrettyButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ishaan/Dropbox/Projects/IGPrettyButton/IGPrettyButton-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	4C9113531163C47600B7641A /* IGPrettyButton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IGPrettyButton;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4C91135D1163C49500B7641A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C91135E1163C49500B7641A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C9113611163C4D600B7641A /* IGPrettyButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 333}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{0, 287}";
+		};
+	};
+	4C9113621163C4D600B7641A /* IGPrettyButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 1440}}";
+			sepNavSelRange = "{1722, 0}";
+			sepNavVisRange = "{513, 393}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	4CD24BB01163FDE3005CDAC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* IGPrettyButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ishaan/Dropbox/Projects/IGPrettyButton/IGPrettyButton-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
